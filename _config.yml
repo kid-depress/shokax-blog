@@ -98,6 +98,11 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: shokax
 
+theme_config:
+  aether:
+    markdownIt:
+      html: true
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
